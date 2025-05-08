@@ -4,7 +4,6 @@
 -- Description: MySQL database schema for managing restaurant operations
 
 -- Create the database
-DROP DATABASE restaurant;
 CREATE DATABASE restaurant;
 USE restaurant;
 
